@@ -1,3 +1,6 @@
+Pull and create a local instance of the repo. Create a new folder for the flutter app and start coding inside that folder.
+push when you want to add an update to the repo
+
 # FrontEnd
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
